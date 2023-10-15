@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AuctionForm/static/css/main.615e51e5.css",
+    "main.js": "/AuctionForm/static/js/main.d5f07b34.js",
+    "static/js/787.ea70734d.chunk.js": "/AuctionForm/static/js/787.ea70734d.chunk.js",
+    "index.html": "/AuctionForm/index.html",
+    "main.615e51e5.css.map": "/AuctionForm/static/css/main.615e51e5.css.map",
+    "main.d5f07b34.js.map": "/AuctionForm/static/js/main.d5f07b34.js.map",
+    "787.ea70734d.chunk.js.map": "/AuctionForm/static/js/787.ea70734d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.615e51e5.css",
+    "static/js/main.d5f07b34.js"
+  ]
+}
