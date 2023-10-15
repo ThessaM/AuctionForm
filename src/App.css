@@ -1,6 +1,55 @@
-.App {
+
+.App-header {
+  /* background-color: #282c34; */
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+h1{
+  font-size: larger;
   text-align: center;
 }
+
+label{
+  font-size: 16px;
+}
+
+.imageDisplay{
+  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 20px;
+}
+
+.form{
+  background-color: #282c34;
+  padding: 25px;
+  margin: 25px;
+  border-radius: 15px;
+  text-align: start;
+}
+
+
+.inputField{
+  font-size: medium;  
+}
+
+
+
+
+
+
+
+/* ----------------------------------------------------------------------------------------- */
+
+/* 
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +84,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
